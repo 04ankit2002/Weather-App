@@ -18,7 +18,7 @@ and displays temperature, weather condition, humidity, and wind speed for any se
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
+- **JavaScript**  
 - **OpenWeather API**  
 
 ---
