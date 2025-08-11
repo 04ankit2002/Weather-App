@@ -52,3 +52,6 @@ with your actual key.
 Open index.html in your browser
 Or use a live server in VS Code
 
+---
+## 6. Secreenshot
+
