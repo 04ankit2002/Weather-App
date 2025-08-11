@@ -54,4 +54,6 @@ Or use a live server in VS Code
 
 ---
 ## 6. Secreenshot
-![image alt](image_url)
+![image alt](https://github.com/04ankit2002/Weather-App/blob/6b3b69193fec5448c7356b9dab14f4aa76d34e41/Screenshots/Screenshot%201.png)
+![image alt](https://github.com/04ankit2002/Weather-App/blob/6b3b69193fec5448c7356b9dab14f4aa76d34e41/Screenshots/Screenshot%201.png)
+![image alt](https://github.com/04ankit2002/Weather-App/blob/6b3b69193fec5448c7356b9dab14f4aa76d34e41/Screenshots/Screenshot%201.png)
