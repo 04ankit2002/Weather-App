@@ -27,3 +27,28 @@ and displays temperature, weather condition, humidity, and wind speed for any se
 1. **Clone this repository**
    ```bash
    git clone https://github.com/04ankit2002/Weather-App.git
+
+---
+
+## 2. Open the project folder
+cd Weather-App
+
+---
+
+## 3. Get your OpenWeather API Key
+ - Create a free account at OpenWeather
+ - Copy your API key
+
+   ---
+
+## 4. Add your API key
+In scripts.js, replace:
+const apikey = "YOUR_API_KEY";
+with your actual key.
+
+---
+
+## 5. Run the app
+Open index.html in your browser
+Or use a live server in VS Code
+
