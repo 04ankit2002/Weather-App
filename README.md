@@ -54,4 +54,4 @@ Or use a live server in VS Code
 
 ---
 ## 6. Secreenshot
-
+![image alt](image_url)
